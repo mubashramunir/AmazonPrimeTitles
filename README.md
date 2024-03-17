@@ -22,8 +22,11 @@ date_added: The date the title was added to Amazon Prime (only 155 non-null entr
 release_year: The year the title was released.
 
 rating: The content rating of the title.
+
 duration: Duration of the title, in minutes for movies and seasons for TV shows.
+
 genre: Categories or genres the title is listed under.
+
 description: A brief description of the title.
 
  We observe a variety of content, including comedies, dramas, documentaries, and suspense titles, from different countries like Canada, India, the United States, and the United Kingdom. 
