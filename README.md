@@ -2,15 +2,25 @@
 The dataset amazon_prime_titles.csv appears to contain information about titles (such as movies and TV shows) available on Amazon Prime. Here's a summary of its structure and some insights:
 
 Number of Entries: 9,668 titles.
+
 Columns: It has 12 columns, including:
+
 show_id: Unique identifier for each title.
+
 type: Type of title, such as Movie or TV Show.
+
 title: The name of the title.
+
 director: Name of the director(s).
+
 cast: List of main cast members.
+
 country: The country of origin.
+
 date_added: The date the title was added to Amazon Prime (only 155 non-null entries, suggesting many missing values).
+
 release_year: The year the title was released.
+
 rating: The content rating of the title.
 duration: Duration of the title, in minutes for movies and seasons for TV shows.
 genre: Categories or genres the title is listed under.
